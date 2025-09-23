@@ -7,18 +7,19 @@ Time: 1200 to 1300
 Location: ABB 115
 
 Attendees:
-Ahmed Iftikhar
-Yash Parmar
-Ugur Yildiz
-
+- Ahmed Iftikhar
+- Yash Parmar
+- Ugur Yildiz
 
 Absentees:
-Soully Traore
+- Soully Traore
 
 Agenda Items:
-All present members set up an individual repository for practical work, in addition to a group repository I have set up and added all other present members to as collaborators.
+1.) All present members set up an individual repository for practical work, in addition to a group repository I have set up and added all other present members to as collaborators.
 
-We decided to meet weekly during the practical sessions in order to record our progress on the practical and decide our next steps.
+2.) We have also set up our method of communication as a whatsapp groupchat in addition to github. All members have been added to this group chat.
+
+3.) We decided to meet weekly during the practical sessions in order to record our progress on the practical and decide our next steps.
 
 Next Meeting:
 
