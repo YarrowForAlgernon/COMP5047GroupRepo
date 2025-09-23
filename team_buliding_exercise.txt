@@ -1,0 +1,27 @@
+Meeting Title: First weekly meeting for COMP5047 coursework 1
+
+Date: Tuesday 23rd September 2025
+
+Time: 1200 to 1300
+
+Location: ABB 115
+
+Attendees:
+Ahmed Iftikhar
+Yash Parmar
+Ugur Yildiz
+
+
+Absentees:
+Soully Traore
+
+Agenda Items:
+All present members set up an individual repository for practical work, in addition to a group repository I have set up and added all other present members to as collaborators.
+
+We decided to meet weekly during the practical sessions in order to record our progress on the practical and decide our next steps.
+
+Next Meeting:
+
+- Date: Friday 30th September 2025
+- Time: 1200 to 1300
+- Location: Room AB 115
