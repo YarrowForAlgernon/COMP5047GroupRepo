@@ -21,6 +21,16 @@ Agenda Items:
 
 3.) We decided to meet weekly during the practical sessions in order to record our progress on the practical and decide our next steps.
 
+4.) The team has chosen their respective subsystems to work on in the course work. The list is as follows:
+
+4.1.) Soully Traore -	A web-based system for the operations of university-specific student unions.
+
+4.2.) Yash Parmar - A mobile application for the student members to keep update to the events of the societies, university-specific student unions and the nation-wide events. 
+
+4.3.) Ugur Yildiz -	A mobile application for society leaders to manage and operate societies.
+
+4.4.) Ahmed Iftikhar - A desktop computer application that enables the USU officers to operation the federation of student unions.  
+
 Next Meeting:
 
 - Date: Friday 30th September 2025
