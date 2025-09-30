@@ -1,0 +1,43 @@
+﻿Meeting Title: First weekly meeting for COMP5047 coursework 1
+
+
+Date: Tuesday 30th September 2025
+
+
+Time: 1200 to 1300
+
+
+Location: ABB 115
+
+
+Attendees:
+- Ahmed Iftikhar
+- Yash Parmar
+- Soully Traore
+
+
+Absentees:
+- Ugur Yildiz
+
+
+Agenda Items:
+1. In preparation for task 2 on the coursework specification, each present member will pick what functional requirement
+they wish to create a list of software requirements for in preparation for the next meeting. These parts will later be 
+comunicated to other members in the team after the meeting.
+2. Each team member present has gone through the coursework and understood their role in it and their next steps. 
+3. Each team member has consolidated what subsystems they will be in charge of.
+
+
+Agenda for next meeting:
+1. Share progress made on Task 2
+2. Share what functional requirement was chosen and collaborate on any overlap in software quality requirements.
+3. Every team member should start (by the end of the meeting) writing up task 2 on the coursework specification and 
+inform the others of their progress
+
+
+Next Meeting:
+
+
+- Date: Tuesday 7th October 2025
+- Time: 1200 to 1300
+- Location: Room AB 115
