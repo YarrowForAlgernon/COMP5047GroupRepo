@@ -1,0 +1,40 @@
+﻿Meeting Title: Third weekly meeting for COMP5047 coursework 1
+
+Date: 7th Of October September 2025
+
+Time: 1200 to 1300
+
+Location: ABB 115
+
+Attendees:
+- Ahmed Iftikhar
+- Yash Parmar
+- Soully Traore
+- Ugur Yildiz
+
+Absentees:
+- None
+
+Agenda Items:
+
+1. The template folder for the group submission has been created on github,
+along with the completed group coursework submission cover.
+2. Each team member has finalised their subsystems and are in the process of writing software quality
+requirements for one functional requirement they have chosen from the coursework case study.  
+3. Below is the list of which sections team members have chosen their functional requirement from:
+Ahmed Iftikhar - Section 4.4 (requirements of USU operators)
+Yash Parmar - Section 4.3 (requirements of students)
+Soully Traore - Section 4.1 (requirements of union officers)
+Ugur Yildiz - Section 4.2 (requirements of society leaders)
+
+Agenda for next meeting:
+
+1. Each team member will present their completed software quality requirements
+2. Each team member will start working on task 3 and construct their use case diagrams, building
+on what they did in task 2.
+
+Next Meeting:
+
+- Date: Tuesday 14th October 2025
+- Time: 1200 to 1300
+- Location: Room AB 115
