@@ -8,6 +8,7 @@ Location: ABB 115
 
 Attendees:
 - Ahmed Iftikhar
+- Yash Parmar
 
 Absentees:
 - Soully Traore
@@ -16,7 +17,7 @@ Absentees:
 
 
 Agenda Items:
-1.) Although no members are present at the meeting, they have communicated their progress on task 3 and confirmed they have finished Task 2.
+1.) All members, they have communicated their progress on task 3 and confirmed they have finished Task 2.
 2.) All members now know how to use papyrus to create use case and other diagrams for their coursework.
 3.) All members will continue to work on and refine Tasks 2 and 3 in preparation for Task 4, for which work will start on next week.
 
