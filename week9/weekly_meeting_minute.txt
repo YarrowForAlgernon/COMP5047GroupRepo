@@ -1,0 +1,32 @@
+﻿Meeting Title: Ninth weekly meeting for COMP5047 coursework (part 2)
+
+Date: Monday 18th November 2025
+
+Time: 1200 to 1300
+
+Location: AB 115
+
+Attendees:
+- Ahmed Iftikhar
+- Soully Traore
+- Ugur Yildiz
+
+Absentees:
+- Yash Parmar
+
+Agenda Items:
+
+1. All present members have agreed that part 4-a will be completed in time for next weeks meeting, so everyone can begin working on Task 4-b.
+
+2. Since each team member is at a different stage in their overall progress in the coursework, they have agreed to focus on Task 4-a in order to work on
+Task 4-b in time for next weeks meeting.
+
+3. Each team member present has understood what they need to upload onto the GitHub for submissions. It was agreed that the team leader should upload the
+Zip file to moodle.
+
+
+Next Meeting:
+
+- Date: Tuesday 25th November 2025
+- Time: 1200 to 1300
+- Location: Room AB 115
