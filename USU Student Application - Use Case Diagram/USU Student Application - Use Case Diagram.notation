@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_hihX4MkhEfCn0pPsp9eVHQ" type="UseCase" name="Use Case Diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_kUEScMkhEfCn0pPsp9eVHQ" type="UseCase_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_kUJK8MkhEfCn0pPsp9eVHQ" type="UseCase_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_kUJK8ckhEfCn0pPsp9eVHQ" type="UseCase_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_kUJK8skhEfCn0pPsp9eVHQ" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_kULAIMkhEfCn0pPsp9eVHQ" type="UseCase_ExtensionPointCompartment">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_kULnMMkhEfCn0pPsp9eVHQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_kULnMckhEfCn0pPsp9eVHQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kULnMskhEfCn0pPsp9eVHQ"/>
+    </children>
+    <element xmi:type="uml:UseCase" href="USU%20Student%20Application%20-%20Use%20Case%20Diagram.uml#_kT4FMMkhEfCn0pPsp9eVHQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kUEScckhEfCn0pPsp9eVHQ" x="380" y="160" width="161" height="61"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_hihX4ckhEfCn0pPsp9eVHQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_hihX4skhEfCn0pPsp9eVHQ"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_hihX48khEfCn0pPsp9eVHQ" diagramKindId="org.eclipse.papyrus.uml.diagram.useCase">
+    <owner xmi:type="uml:Model" href="USU%20Student%20Application%20-%20Use%20Case%20Diagram.uml#_hd4vgMkhEfCn0pPsp9eVHQ"/>
+  </styles>
+  <element xmi:type="uml:Model" href="USU%20Student%20Application%20-%20Use%20Case%20Diagram.uml#_hd4vgMkhEfCn0pPsp9eVHQ"/>
+</notation:Diagram>
