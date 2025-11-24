@@ -1,1 +1,30 @@
-mbshdgfrhsfsd
+Meeting Title: Fourth weekly meeting for COMP5047 coursework 1
+
+Date: Tuesday 14th October 2025
+
+Time: 1200 to 1300
+
+Location: ABB 115
+
+Attendees:
+- Ahmed Iftikhar
+- Yash Parmar
+- Soully Traore
+- Ugur Yildiz
+
+Absentees:
+- None
+
+Agenda Items:
+
+1.) All team members have shown each other their work on task 2, and have discussed it as a group
+
+2.) Team members were having difficulty using Papyrus and were shown how breifly how to navigate its user interface.
+
+3.) Some team members have opted to use alternative UML diagram tools due to their personal computers being unable to use Papyrus.
+
+Next Meeting:
+
+- Date: Tuesday 21st October 2025
+- Time: 1200 to 1300
+- Location: Room AB 115
