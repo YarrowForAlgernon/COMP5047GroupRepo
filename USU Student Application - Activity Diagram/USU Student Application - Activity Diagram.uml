@@ -3,5 +3,7 @@
   <packageImport xmi:type="uml:PackageImport" xmi:id="_-PnOcMkhEfCn0pPsp9eVHQ">
     <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
   </packageImport>
-  <packagedElement xmi:type="uml:Activity" xmi:id="_-LlqEMkhEfCn0pPsp9eVHQ" name="Activity1"/>
+  <packagedElement xmi:type="uml:Activity" xmi:id="_-LlqEMkhEfCn0pPsp9eVHQ" name="Activity1" node="_BHXesMkiEfCn0pPsp9eVHQ">
+    <node xmi:type="uml:InitialNode" xmi:id="_BHXesMkiEfCn0pPsp9eVHQ" name="InitialNode1"/>
+  </packagedElement>
 </uml:Model>

@@ -2,6 +2,12 @@
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
   <viewpoint:DAnalysis uid="_-ItVMMkhEfCn0pPsp9eVHQ" selectedViews="_-JIL8MkhEfCn0pPsp9eVHQ _-J0IcMkhEfCn0pPsp9eVHQ _-J7dMMkhEfCn0pPsp9eVHQ _-KKGsMkhEfCn0pPsp9eVHQ _-KQNUMkhEfCn0pPsp9eVHQ _-KYJIMkhEfCn0pPsp9eVHQ _-KwjoMkhEfCn0pPsp9eVHQ _-K9X8MkhEfCn0pPsp9eVHQ _-LEFoMkhEfCn0pPsp9eVHQ _-LKMQMkhEfCn0pPsp9eVHQ _-LQS4MkhEfCn0pPsp9eVHQ" version="15.4.1.202403191723">
     <semanticResources>USU%20Student%20Application%20-%20Activity%20Diagram.uml</semanticResources>
+    <semanticResources>pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml</semanticResources>
+    <semanticResources>pathmap://UML_PROFILES/Ecore.profile.uml</semanticResources>
+    <semanticResources>pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml</semanticResources>
+    <semanticResources>pathmap://UML_PROFILES/Standard.profile.uml</semanticResources>
+    <semanticResources>pathmap://UML_METAMODELS/UML.metamodel.uml</semanticResources>
+    <semanticResources>pathmap://UML_METAMODELS/Ecore.metamodel.uml</semanticResources>
     <ownedViews xmi:type="viewpoint:DView" uid="_-JIL8MkhEfCn0pPsp9eVHQ">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.eclipse.papyrus.sirius.uml.diagram.compositestructure/description/papyrus_compositestructure.odesign#//@ownedViewpoints[name='CompositeStructureDiagram']"/>
     </ownedViews>
@@ -13,7 +19,7 @@
     </ownedViews>
     <ownedViews xmi:type="viewpoint:DView" uid="_-KKGsMkhEfCn0pPsp9eVHQ">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.eclipse.papyrus.sirius.uml.diagram.activity/description/papyrus_activity.odesign#//@ownedViewpoints[name='ActivityDiagram']"/>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_-OemAMkhEfCn0pPsp9eVHQ" name="New Activity Diagram" repPath="#_-ORKoMkhEfCn0pPsp9eVHQ" changeId="1763984419644">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_-OemAMkhEfCn0pPsp9eVHQ" name="New Activity Diagram" repPath="#_-ORKoMkhEfCn0pPsp9eVHQ" changeId="1763984438957">
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.eclipse.papyrus.sirius.uml.diagram.activity/description/papyrus_activity.odesign#//@ownedViewpoints[name='ActivityDiagram']/@ownedRepresentations[name='ActivityDiagram']"/>
         <target xmi:type="uml:Activity" href="USU%20Student%20Application%20-%20Activity%20Diagram.uml#_-LlqEMkhEfCn0pPsp9eVHQ"/>
       </ownedRepresentationDescriptors>
@@ -52,6 +58,17 @@
             <children xmi:type="notation:Node" xmi:id="_-PPbAMkhEfCn0pPsp9eVHQ" type="3008" element="_-O9uMMkhEfCn0pPsp9eVHQ">
               <children xmi:type="notation:Node" xmi:id="_-PPbA8khEfCn0pPsp9eVHQ" visible="false" type="5005"/>
               <children xmi:type="notation:Node" xmi:id="_-PPbBMkhEfCn0pPsp9eVHQ" type="7002">
+                <children xmi:type="notation:Node" xmi:id="_BHpLgMkiEfCn0pPsp9eVHQ" type="3007" element="_BHdlUMkiEfCn0pPsp9eVHQ">
+                  <children xmi:type="notation:Node" xmi:id="_BHpykMkiEfCn0pPsp9eVHQ" type="5003">
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="_BHpykckiEfCn0pPsp9eVHQ" x="-13" y="-17"/>
+                  </children>
+                  <children xmi:type="notation:Node" xmi:id="_BJF9AMkiEfCn0pPsp9eVHQ" type="3005" element="_BHgBkMkiEfCn0pPsp9eVHQ">
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="_BJF9AckiEfCn0pPsp9eVHQ" fontName=".AppleSystemUIFont"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BJF9AskiEfCn0pPsp9eVHQ"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_BHpLgckiEfCn0pPsp9eVHQ" fontName=".AppleSystemUIFont"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BHpLgskiEfCn0pPsp9eVHQ" x="218" y="145" width="45" height="33"/>
+                </children>
                 <styles xmi:type="notation:SortingStyle" xmi:id="_-PPbBckhEfCn0pPsp9eVHQ"/>
                 <styles xmi:type="notation:FilteringStyle" xmi:id="_-PPbBskhEfCn0pPsp9eVHQ"/>
                 <styles xmi:type="notation:DrawerStyle" xmi:id="_-PQCEMkhEfCn0pPsp9eVHQ"/>
@@ -86,6 +103,14 @@
           <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.eclipse.papyrus.sirius.uml.diagram.activity/description/papyrus_activity.odesign#//@ownedViewpoints[name='ActivityDiagram']/@ownedRepresentations[name='ActivityDiagram']/@defaultLayer/@containerMappings[name='AD_Activity']/@subContainerMappings[name='AD_ActivityContentCompartment']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.eclipse.papyrus.sirius.uml.diagram.activity/description/papyrus_activity.odesign#//@ownedViewpoints[name='ActivityDiagram']/@ownedRepresentations[name='ActivityDiagram']/@defaultLayer/@containerMappings[name='AD_Activity']/@subContainerMappings[name='AD_ActivityContentCompartment']"/>
+        <ownedDiagramElements xmi:type="diagram:DNode" uid="_BHdlUMkiEfCn0pPsp9eVHQ" name="InitialNode1" width="2" height="2" resizeKind="NSEW">
+          <target xmi:type="uml:InitialNode" href="USU%20Student%20Application%20-%20Activity%20Diagram.uml#_BHXesMkiEfCn0pPsp9eVHQ"/>
+          <semanticElements xmi:type="uml:InitialNode" href="USU%20Student%20Application%20-%20Activity%20Diagram.uml#_BHXesMkiEfCn0pPsp9eVHQ"/>
+          <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_BHgBkMkiEfCn0pPsp9eVHQ" labelSize="9" workspacePath="/org.eclipse.papyrus.sirius.uml.diagram.activity/icons/InitialNode.svg">
+            <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.eclipse.papyrus.sirius.uml.diagram.activity/description/papyrus_activity.odesign#//@ownedViewpoints[name='ActivityDiagram']/@ownedRepresentations[name='ActivityDiagram']/@defaultLayer/@nodeMappings[name='AD_InitialNode']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.papyrus.sirius.uml.diagram.activity/description/papyrus_activity.odesign#//@ownedViewpoints[name='ActivityDiagram']/@ownedRepresentations[name='ActivityDiagram']/@defaultLayer/@nodeMappings[name='AD_InitialNode']"/>
+        </ownedDiagramElements>
       </ownedDiagramElements>
     </ownedDiagramElements>
     <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.eclipse.papyrus.sirius.uml.diagram.activity/description/papyrus_activity.odesign#//@ownedViewpoints[name='ActivityDiagram']/@ownedRepresentations[name='ActivityDiagram']"/>
