@@ -1,0 +1,26 @@
+Meeting Title: Fifth weekly meeting for COMP5047 coursework 1
+
+Date: Tuesday 21st October 2025
+
+Time: 1200 to 1300
+
+Location: ABB 115
+
+Attendees:
+- Ahmed Iftikhar
+- Yash Parmar
+
+Absentees:
+- Soully Traore
+- Ugur Yildiz
+
+Agenda Items:
+1.) present team members learned how to use Papyrus to construct use case diagrams
+2.) Present members have completed the practical activity.
+3.) Present team members have discussed how to best construct use case diagrams for their respective subsystems.
+
+Next Meeting:
+
+- Date: Tuesday 4th November 2025
+- Time: 1200 to 1300
+- Location: Room AB 115
