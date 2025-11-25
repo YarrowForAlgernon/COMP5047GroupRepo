@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_-I8lwMkhEfCn0pPsp9eVHQ" name="USU Student Application - Activity Diagram">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_-PnOcMkhEfCn0pPsp9eVHQ">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Activity" xmi:id="_-LlqEMkhEfCn0pPsp9eVHQ" name="Activity1" node="_BHXesMkiEfCn0pPsp9eVHQ">
+    <node xmi:type="uml:InitialNode" xmi:id="_BHXesMkiEfCn0pPsp9eVHQ" name="InitialNode1"/>
+  </packagedElement>
+</uml:Model>
