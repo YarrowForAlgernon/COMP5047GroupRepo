@@ -9,11 +9,10 @@ Location: ABB 115
 Attendees:
 - Ahmed Iftikhar
 - Yash Parmar
+- Soully Traore
 
 Absentees:
-- Soully Traore
 - Ugur Yildiz
-- Yash Parmar
 
 
 Agenda Items:
@@ -26,3 +25,4 @@ Next Meeting:
 - Date: Tuesday 4th November 2025
 - Time: 1200 to 1300
 - Location: Room AB 115
+
