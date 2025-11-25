@@ -20,12 +20,11 @@ Agenda Items:
 
 2. Each person should upload their models in the github for easier integratation.
 
-3. Due to the delay of the coursework, we agreed to apply for week extension.
+3. Due to the delay of the coursework, we agreed to apply for a week extension.
 
-4. We agreed to meet on friday for further work. 
+4. We agreed to meet on friday for further discussion and work. 
 
-
-Next Meeting:
+Next Meeting: 
 
 planned:
 This week is planned to start integrating the systems but since some members have not started the architectural uml design. we decided to use next week for that and team report. 
