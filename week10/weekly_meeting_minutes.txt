@@ -1,0 +1,35 @@
+﻿Meeting Title: tenth weekly meeting for COMP5047 coursework 
+
+Date: Monday 25th November 2025
+
+Time: 1200 to 1300
+
+Location: AB 115
+
+Attendees:
+- Soully Traore
+- Yash Parmar
+
+Absentees:
+- Ugur Yildiz
+- Ahmed Iftikhar
+
+Agenda Items:
+
+1. The group progress was discussed and since everyone is at different stage. we dicided to get their current done as soon as possible so we could start with the integration. 
+
+2. Each person should upload their models in the github for easier integratation.
+
+3. Due to the delay of the coursework, we agreed to apply for week extension.
+
+4. We agreed to meet on friday for further work. 
+
+
+Next Meeting:
+
+planned:
+This week is planned to start integrating the systems but since some members have not started the architectural uml design. we decided to use next week for that and team report. 
+
+- Date: Tuesday 2th December 2025
+- Time: 1200 to 1300
+- Location: Room AB 115
