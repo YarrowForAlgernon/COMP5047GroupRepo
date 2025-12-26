@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_fwncAMr7EfCkXryO5JL6IQ" name="model">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_f4uPIMr7EfCkXryO5JL6IQ">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Package" xmi:id="_IFOIQMr8EfCkXryO5JL6IQ" name="USU membership">
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_jvLt4Mr8EfCkXryO5JL6IQ" name="applyMembership">
+      <include xmi:type="uml:Include" xmi:id="_XqVCoMsBEfCkXryO5JL6IQ" addition="_LAzUEOGvEfCCOOkb_xnLlA"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_n5PTgMr8EfCkXryO5JL6IQ" name="created_IT_Delegated_account">
+      <extend xmi:type="uml:Extend" xmi:id="_iHc6AOHEEfCCOOkb_xnLlA" extendedCase="_cLmmoOHEEfCCOOkb_xnLlA" extensionLocation="_iHc6AeHEEfCCOOkb_xnLlA"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_A9yNscsLEfCkXryO5JL6IQ" name="ExtensionPoint1"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_o9vsYMsbEfCkXryO5JL6IQ" name="ExtensionPoint3"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_8VdCgOHFEfCCOOkb_xnLlA" name="ExtensionPoint5"/>
+      <include xmi:type="uml:Include" xmi:id="_JjfF8MsQEfCkXryO5JL6IQ" addition="_y7taEMsKEfCkXryO5JL6IQ"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_5BKL0Mr-EfCkXryO5JL6IQ" name="approve termination">
+      <include xmi:type="uml:Include" xmi:id="_cs8tUMsUEfCkXryO5JL6IQ" addition="_n5PTgMr8EfCkXryO5JL6IQ"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_GgllYMr_EfCkXryO5JL6IQ" name="Disable Access Accounts"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_DQppMMsAEfCkXryO5JL6IQ" name="UpdateMembershipData">
+      <include xmi:type="uml:Include" xmi:id="_beKgoMsBEfCkXryO5JL6IQ" addition="_bEG3UMsAEfCkXryO5JL6IQ"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_bEG3UMsAEfCkXryO5JL6IQ" name="validate data ">
+      <include xmi:type="uml:Include" xmi:id="_-C31YMsCEfCkXryO5JL6IQ" addition="_7lxg0MsCEfCkXryO5JL6IQ"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_qthxUMsCEfCkXryO5JL6IQ" name="tenantAccountCreation">
+      <include xmi:type="uml:Include" xmi:id="_UE8lcMsDEfCkXryO5JL6IQ" addition="_N-8QgMsDEfCkXryO5JL6IQ"/>
+      <include xmi:type="uml:Include" xmi:id="_xIBTEMsDEfCkXryO5JL6IQ" addition="_n5PTgMr8EfCkXryO5JL6IQ"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_7lxg0MsCEfCkXryO5JL6IQ" name="databaseStorage">
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_Y0HWYcsbEfCkXryO5JL6IQ" name="ExtensionPoint1"/>
+      <include xmi:type="uml:Include" xmi:id="_LuyZcOHFEfCCOOkb_xnLlA" addition="_2XSQYOHEEfCCOOkb_xnLlA"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_N-8QgMsDEfCkXryO5JL6IQ" name="Create or Mirror Union Website">
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_aoEnUcsbEfCkXryO5JL6IQ" name="ExtensionPoint1"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_LkOsIMsEEfCkXryO5JL6IQ" name="request membership termination">
+      <include xmi:type="uml:Include" xmi:id="_E0kgwMsFEfCkXryO5JL6IQ" addition="_5BKL0Mr-EfCkXryO5JL6IQ"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_Q-jKUMsFEfCkXryO5JL6IQ" name="Delete Registration Data"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_R5JKUMsFEfCkXryO5JL6IQ" name="Remove/Mirror Website on Termination"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_y7taEMsKEfCkXryO5JL6IQ" name="delete details">
+      <include xmi:type="uml:Include" xmi:id="_f32mQMsYEfCkXryO5JL6IQ" addition="_GgllYMr_EfCkXryO5JL6IQ"/>
+      <include xmi:type="uml:Include" xmi:id="_gZRRQMsYEfCkXryO5JL6IQ" addition="_Q-jKUMsFEfCkXryO5JL6IQ"/>
+      <include xmi:type="uml:Include" xmi:id="_hAK5MMsYEfCkXryO5JL6IQ" addition="_R5JKUMsFEfCkXryO5JL6IQ"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_02YZMMsZEfCkXryO5JL6IQ" name="approveMembership">
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_FeFyUcsaEfCkXryO5JL6IQ" name="ExtensionPoint1"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_F-4yQcsaEfCkXryO5JL6IQ" name="ExtensionPoint2"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_LAzUEOGvEfCCOOkb_xnLlA" name="inputRequiredData">
+      <include xmi:type="uml:Include" xmi:id="_ENYqEOGwEfCCOOkb_xnLlA" addition="_bEG3UMsAEfCkXryO5JL6IQ"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_cLmmoOHEEfCCOOkb_xnLlA" name="viewDeletedAccounts">
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_iHc6AeHEEfCCOOkb_xnLlA" name="ExtensionPoint1"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_2XSQYOHEEfCCOOkb_xnLlA" name="customisedAccount"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_iVrt0OHFEfCCOOkb_xnLlA" name="view active accounts">
+      <extend xmi:type="uml:Extend" xmi:id="_8VcbcOHFEfCCOOkb_xnLlA" extendedCase="_n5PTgMr8EfCkXryO5JL6IQ" extensionLocation="_8VdCgOHFEfCCOOkb_xnLlA"/>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_Cy95kMr-EfCkXryO5JL6IQ" name="1" memberEnd="_Cy-gosr-EfCkXryO5JL6IQ _Cy_HsMr-EfCkXryO5JL6IQ">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Cy-goMr-EfCkXryO5JL6IQ" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Cy-gocr-EfCkXryO5JL6IQ" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_Cy-gosr-EfCkXryO5JL6IQ" name="applymembership" type="_jvLt4Mr8EfCkXryO5JL6IQ" association="_Cy95kMr-EfCkXryO5JL6IQ"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_Cy_HsMr-EfCkXryO5JL6IQ" name="union representative" type="_GSYRoMr8EfCkXryO5JL6IQ" association="_Cy95kMr-EfCkXryO5JL6IQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_R4k64MsLEfCkXryO5JL6IQ" name="0..1" memberEnd="_R4lh8ssLEfCkXryO5JL6IQ _R4lh88sLEfCkXryO5JL6IQ">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_R4lh8MsLEfCkXryO5JL6IQ" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_R4lh8csLEfCkXryO5JL6IQ" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_R4lh8ssLEfCkXryO5JL6IQ" name="create tenant account" type="_qthxUMsCEfCkXryO5JL6IQ" association="_R4k64MsLEfCkXryO5JL6IQ"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_R4lh88sLEfCkXryO5JL6IQ" name="usu system" type="_KrQusMsCEfCkXryO5JL6IQ" association="_R4k64MsLEfCkXryO5JL6IQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_URzcEMsLEfCkXryO5JL6IQ" name="1" memberEnd="_UR0DIssLEfCkXryO5JL6IQ _UR0DI8sLEfCkXryO5JL6IQ">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_UR0DIMsLEfCkXryO5JL6IQ" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UR0DIcsLEfCkXryO5JL6IQ" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_UR0DIssLEfCkXryO5JL6IQ" name="usu system" type="_KrQusMsCEfCkXryO5JL6IQ" association="_URzcEMsLEfCkXryO5JL6IQ"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_UR0DI8sLEfCkXryO5JL6IQ" name="1" type="_R4k64MsLEfCkXryO5JL6IQ" association="_URzcEMsLEfCkXryO5JL6IQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_nOvAIMsLEfCkXryO5JL6IQ" name="1" memberEnd="_nOvAI8sLEfCkXryO5JL6IQ _nOvAJMsLEfCkXryO5JL6IQ">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_nOvAIcsLEfCkXryO5JL6IQ" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_nOvAIssLEfCkXryO5JL6IQ" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_nOvAI8sLEfCkXryO5JL6IQ" name="request membership termination" type="_LkOsIMsEEfCkXryO5JL6IQ" association="_nOvAIMsLEfCkXryO5JL6IQ"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_nOvAJMsLEfCkXryO5JL6IQ" name="union representative" type="_GSYRoMr8EfCkXryO5JL6IQ" association="_nOvAIMsLEfCkXryO5JL6IQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_hLhEAMsMEfCkXryO5JL6IQ" name="1" memberEnd="_hLhrEcsMEfCkXryO5JL6IQ _hLhrEssMEfCkXryO5JL6IQ">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_hLhEAcsMEfCkXryO5JL6IQ" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hLhrEMsMEfCkXryO5JL6IQ" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_hLhrEcsMEfCkXryO5JL6IQ" name="1" type="_GSYRoMr8EfCkXryO5JL6IQ" association="_hLhEAMsMEfCkXryO5JL6IQ"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_hLhrEssMEfCkXryO5JL6IQ" name="updatemembershipdata" type="_DQppMMsAEfCkXryO5JL6IQ" association="_hLhEAMsMEfCkXryO5JL6IQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_ojZMUMsTEfCkXryO5JL6IQ" name="1" memberEnd="_ojZzYssTEfCkXryO5JL6IQ _ojZzY8sTEfCkXryO5JL6IQ">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ojZzYMsTEfCkXryO5JL6IQ" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ojZzYcsTEfCkXryO5JL6IQ" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_ojZzYssTEfCkXryO5JL6IQ" name="approve termination" type="_5BKL0Mr-EfCkXryO5JL6IQ" association="_ojZMUMsTEfCkXryO5JL6IQ"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_ojZzY8sTEfCkXryO5JL6IQ" name="usu administrator" type="_B8X6sMr8EfCkXryO5JL6IQ" association="_ojZMUMsTEfCkXryO5JL6IQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_5I-PwMsZEfCkXryO5JL6IQ" name="1" memberEnd="_5I-20ssZEfCkXryO5JL6IQ _5I-208sZEfCkXryO5JL6IQ">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_5I-20MsZEfCkXryO5JL6IQ" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5I-20csZEfCkXryO5JL6IQ" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_5I-20ssZEfCkXryO5JL6IQ" name="approvemembership" type="_02YZMMsZEfCkXryO5JL6IQ" association="_5I-PwMsZEfCkXryO5JL6IQ"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_5I-208sZEfCkXryO5JL6IQ" name="usu administrator" type="_B8X6sMr8EfCkXryO5JL6IQ" association="_5I-PwMsZEfCkXryO5JL6IQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_KrQusMsCEfCkXryO5JL6IQ" name="USU System"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_B8X6sMr8EfCkXryO5JL6IQ" name="USU administrator"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_GSYRoMr8EfCkXryO5JL6IQ" name="Union representative"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_GL0WoMr8EfCkXryO5JL6IQ" name="IT officer(Delegated)"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_cLA5YMseEfCkXryO5JL6IQ" memberEnd="_cLBgcsseEfCkXryO5JL6IQ _cLBgc8seEfCkXryO5JL6IQ">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_cLBgcMseEfCkXryO5JL6IQ" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cLBgccseEfCkXryO5JL6IQ" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_cLBgcsseEfCkXryO5JL6IQ" name="created_it_delegated_account" type="_n5PTgMr8EfCkXryO5JL6IQ" association="_cLA5YMseEfCkXryO5JL6IQ"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_cLBgc8seEfCkXryO5JL6IQ" name="it officer(delegated)" type="_GL0WoMr8EfCkXryO5JL6IQ" association="_cLA5YMseEfCkXryO5JL6IQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_jdg6kOGvEfCCOOkb_xnLlA" name="1" memberEnd="_jdlMAOGvEfCCOOkb_xnLlA _jdlMAeGvEfCCOOkb_xnLlA">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_jdj94OGvEfCCOOkb_xnLlA" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_jdj94eGvEfCCOOkb_xnLlA" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_jdlMAOGvEfCCOOkb_xnLlA" name="validate data " type="_bEG3UMsAEfCkXryO5JL6IQ" association="_jdg6kOGvEfCCOOkb_xnLlA"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_jdlMAeGvEfCCOOkb_xnLlA" name="usu system" type="_KrQusMsCEfCkXryO5JL6IQ" association="_jdg6kOGvEfCCOOkb_xnLlA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_OWPrQOHCEfCCOOkb_xnLlA" name="1" memberEnd="_OWQSUuHCEfCCOOkb_xnLlA _OWQSU-HCEfCCOOkb_xnLlA">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_OWQSUOHCEfCCOOkb_xnLlA" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OWQSUeHCEfCCOOkb_xnLlA" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_OWQSUuHCEfCCOOkb_xnLlA" name="databasestorage" type="_7lxg0MsCEfCkXryO5JL6IQ" association="_OWPrQOHCEfCCOOkb_xnLlA"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_OWQSU-HCEfCCOOkb_xnLlA" name="usu system" type="_KrQusMsCEfCkXryO5JL6IQ" association="_OWPrQOHCEfCCOOkb_xnLlA"/>
+  </packagedElement>
+</uml:Model>
